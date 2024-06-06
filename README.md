@@ -1,4 +1,4 @@
-## Education
+## 🎓 Education
  **Bilkent University** ||  Information Systems and Technologies (CTIS) || 09/2019 - 05/2024
 
 **Courses:** *Discrete Mathematics, Object Oriented Programming, Principles of Software Engineering, Frontend Web Technologies, Object Oriented Analysis and Design, Backend Development, Database Management Systems, Data Structures, Applied Computer Networks, Applied Data Analysis, Computer Algorithms*
@@ -20,7 +20,7 @@
 
 **Project:** *AWS Academy Cloud Architecting Capstone Project*
 
-## Professional Experience
+## 💼 Professional Experience
 **Simsoft Technologies** || Software Engineer Intern (On-Site) || 01–05/2023 
 - *Enhanced project builder app for simulation environment using C++ and Qt framework.*
 - *Localized Doxygen documentation. (Project Documentation App)*
@@ -32,14 +32,14 @@
 - *Worked on simulation engine for validating simulation functions and identifying bugs.*
 - *Tested different maps in simulation to detect and report texture failures and glitches.*
 
-## Skills
+## 🧠 Skills
 **Languages:** *C, C++, Java, Python, SQL, HTML, CSS, JavaScript, PHP*
 
 **Technologies:** *Git, Linux, GLUT, OpenGL, MySQL, jQuery, Android Studio, Unreal Engine, Qt, Doxygen*
 
 **Concepts:** *OOA/OOD(UML, Design Patterns), Networking, Cloud Computing*
 
-## Certificates
+## 📃 Certificates
 - **CISCO Certificate of Course Completion - 2023** *CCNA: Switching, Routing, and Wireless Essentials*
 
 - **CISCO Certificate of Course Completion - 2022** *CyberOps Associate*
