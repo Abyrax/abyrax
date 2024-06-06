@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4E16AQHfKZk87YHN7A/profile-displaybackgroundimage-shrink_350_1400/0/1644192868625?e=1723075200&v=beta&t=EehSzgS_-DntzjVjULqIBbuxMpHRmDmREXXNQ2zBFxc"  />
-</div>
-
 ## Education
  **Bilkent University** ||  Information Systems and Technologies (CTIS) || 09/2019 - 05/2024
 
