@@ -26,6 +26,8 @@
 - *Localized Doxygen documentation. (Project Documentation App)*
 - *Developed simulation setup program to fix installation failures using **C++** and **Qt** framework.*
   - **Best CTIS Intern Award - CTIS Awards 2024**
+ 
+##
 
 **Simsoft Technologies** || Software Test Engineer Intern (On-Site) || 08–09/2022
 - *Prepared detailed documentation of a couple of test steps for the simulation project document.*
